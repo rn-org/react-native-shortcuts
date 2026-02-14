@@ -138,7 +138,7 @@ Supported options:
 | `id`               | Both | Yes | A required, app-specific string that you employ to identify the shortcut. |
 | `title`            | Both | Yes | The required, user-visible title for the Home Screen shortcut. |
 | `longLabel`        | Android | No | An extended phrase that describes the shortcut's purpose. If there's enough space, the launcher displays this value instead of title. When possible, limit this long description to 25 characters. |
-| `subtitle`         | iOS | No | The user-visible subtitle for the Home Screen dynamic quick action. |
+| `subTitle`         | iOS | No | The user-visible subtitle for the Home Screen dynamic quick action. |
 | `symbolName`       | iOS | No | The SF Symbol for the Home Screen shortcut. Symbol name must correspond to an existing SF Symbol. Refer [iOS](https://developer.apple.com/sf-symbols/) resource addition. |
 | `iconName`         | Both | No | The icon for the Home Screen shortcut. Icon name should be the name of your iOS asset or Android drawable. Refer [iOS](https://developer.apple.com/documentation/xcode/managing-assets-with-asset-catalogs) & [Android](https://developer.android.com/studio/write/resource-manager) resource addition. |
 
@@ -168,7 +168,7 @@ Supported options:
 | `id`               | Both | Yes | The shortcut id which you want to update. |
 | `title`            | Both | Yes | The required, user-visible title for the Home Screen shortcut. |
 | `longLabel`        | Android | No | An extended phrase that describes the shortcut's purpose. If there's enough space, the launcher displays this value instead of title. When possible, limit this long description to 25 characters. |
-| `subtitle`         | iOS | No | The user-visible subtitle for the Home Screen dynamic quick action. |
+| `subTitle`         | iOS | No | The user-visible subtitle for the Home Screen dynamic quick action. |
 | `symbolName`       | iOS | No | The SF Symbol for the Home Screen shortcut. Symbol name must correspond to an existing SF Symbol. Refer [iOS](https://developer.apple.com/sf-symbols/) resource addition. |
 | `iconName`         | Both | No | The icon for the Home Screen shortcut. Icon name should be the name of your iOS asset or Android drawable. Refer [iOS](https://developer.apple.com/documentation/xcode/managing-assets-with-asset-catalogs) & [Android](https://developer.android.com/studio/write/resource-manager) resource addition. |
 
@@ -213,7 +213,7 @@ Response:
   "id": "a426a46b-7389-431c-9ea8-8b370e0c65fc",
   "title": "Open App",
   "longLable": "...",
-  "subtitle": "..."
+  "subTitle": "..."
 }
 ```
 
