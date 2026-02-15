@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/v/@rn-org/react-native-shortcuts.svg)](https://npmjs.com/@rn-org/react-native-shortcuts) [![React Native](https://img.shields.io/badge/React_Native-21232a?style=flat&logo=react&logoColor=0a7ea4&logoSize=small.svg)]() [![Android](https://img.shields.io/badge/Android-green?style=flat&logo=android&logoColor=white)]() [![iOS](https://img.shields.io/badge/iOS-21232a?style=flat&logo=ios&logoColor=white)]() ![RN 0.81.4](https://img.shields.io/badge/RN-0.81.4-brightgreen)
+[![npm](https://img.shields.io/npm/v/@rn-org/react-native-shortcuts.svg)](https://npmjs.com/@rn-org/react-native-shortcuts) [![React Native](https://img.shields.io/badge/React_Native-21232a?style=flat&logo=react&logoColor=0a7ea4&logoSize=small.svg)]() [![Android](https://img.shields.io/badge/Android-green?style=flat&logo=android&logoColor=white)]() [![iOS](https://img.shields.io/badge/iOS-21232a?style=flat&logo=ios&logoColor=white)]() ![RN 0.84.0](https://img.shields.io/badge/RN-0.84.0-brightgreen)
 
 # @rn-org/react-native-shortcuts
 

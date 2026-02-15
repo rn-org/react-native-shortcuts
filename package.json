@@ -1,6 +1,7 @@
 {
   "name": "@rn-org/react-native-shortcuts",
-  "version": "0.1.1",
+  "private": true,
+  "version": "0.2.0",
   "description": "React native library for android shortcuts and iOS quick actions which allow users to quickly access specific app functionalities directly from the home screen or app icon.",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
@@ -54,19 +55,19 @@
     "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
-    "@react-native/eslint-config": "^0.81.1",
+    "@react-native/eslint-config": "^0.84.0",
     "@types/jest": "^30.0.0",
-    "@types/react": "^19.1.13",
-    "eslint": "^9.35.0",
+    "@types/react": "^19.2.14",
+    "eslint": "^10.0.0",
     "eslint-config-prettier": "^10.1.8",
-    "eslint-plugin-prettier": "^5.5.4",
-    "jest": "^30.1.3",
-    "prettier": "^3.6.2",
-    "react": "19.1.0",
-    "react-native": "0.80.1",
-    "react-native-builder-bob": "^0.40.13",
-    "turbo": "^2.5.6",
-    "typescript": "^5.9.2"
+    "eslint-plugin-prettier": "^5.5.5",
+    "jest": "^30.2.0",
+    "prettier": "^3.8.1",
+    "react": "19.2.3",
+    "react-native": "0.84.0",
+    "react-native-builder-bob": "^0.40.18",
+    "turbo": "^2.8.9",
+    "typescript": "^5.9.3"
   },
   "peerDependencies": {
     "react": "*",
@@ -137,5 +138,6 @@
         }
       ]
     ]
-  }
+  },
+  "packageManager": "yarn@3.6.1"
 }
