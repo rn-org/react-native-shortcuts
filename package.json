@@ -1,6 +1,5 @@
 {
   "name": "@rn-org/react-native-shortcuts",
-  "private": true,
   "version": "0.2.0",
   "description": "React native library for android shortcuts and iOS quick actions which allow users to quickly access specific app functionalities directly from the home screen or app icon.",
   "source": "./src/index.tsx",
